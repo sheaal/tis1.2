@@ -1,0 +1,17 @@
+{
+    "register_url": "https://dev.profteam.su/registration",
+    "login_register": "testerarar",
+    "fail_spacelogin_register": "teste rarr",
+    "latin_register": "тмуклмт",
+    "email_register": "testerarr@gmail.com",
+    "password_register": "Tester7",
+    "space_password_register": "Tester 7",
+    "password_repeat_register": "Tester7",
+    "num_password_register": "Tester",
+    "num_password_repeat_register": "Tester",
+    "mismatch1_password_register": "Testeer7",
+    "mismatch2_password_repeat_register": "Testeeeeeer7",
+    "surname_register": "Соколов",
+    "name_register": "Роман",
+    "patronymic_register": "Евгеньевич"
+}
