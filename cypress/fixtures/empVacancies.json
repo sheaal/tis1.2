@@ -4,5 +4,8 @@
     "password": "Password1",
     "post_name": "БРАЙН",
     "requirement": "ЛЮБИТ",
-    "duty": "ПЕТУСА"
+    "duty": "ПЕТУСА",
+    "fail_post_name": " ",
+    "fail_requirement": " ",
+    "fail_duty": " "
 }

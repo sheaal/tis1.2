@@ -2,5 +2,6 @@
     "main_url": "https://dev.profteam.su/login",
     "login": "testerStudent",
     "login_fail": "LALALALA",
-    "password": "Password1"
+    "password": "Password1",
+    "fail_password": "Password2"
 }
